@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two acts I. An act for reviving two statutes lately expired, and making them perpetual; and for avoiding unnecessary suits and delays. II. An act for redress of inconveniences for want of proof of the deceases of persons beyond the seas, or absenting themselves, upon whose lives estates do depend.</title>
+            <title>Laws, etc.</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87334</idno>
+            <idno type="STC">Wing I654D</idno>
+            <idno type="STC">ESTC R178712</idno>
+            <idno type="EEBO-CITATION">43077514</idno>
+            <idno type="OCLC">ocm 43077514</idno>
+            <idno type="VID">151579</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87334)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151579)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2265:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two acts I. An act for reviving two statutes lately expired, and making them perpetual; and for avoiding unnecessary suits and delays. II. An act for redress of inconveniences for want of proof of the deceases of persons beyond the seas, or absenting themselves, upon whose lives estates do depend.</title>
+                  <title>Laws, etc.</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>[2], 3-6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook, printer to the King's Most Excellent Majesty, on Ormonde-Key.</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print bleed-through.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Ireland.</term>
+               <term>Ireland --  History --  1691-</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151579:1"/>
+            <!-- PDF PAGE 45 -->
+            <p>Two ACTS
+<list>
+                  <item>I. An ACT for Reviving Two Statutes lately Expired, and making them Perpetual; And for Avoiding Unneceſſary Suits and Delays.</item>
+                  <item>II. An ACT for Redreſs of Inconveniences for want of Proof of the Deceaſes of Per<g ref="char:EOLhyphen"/>ſons beyond the Seas, or Abſenting Them<g ref="char:EOLhyphen"/>ſelves, upon whoſe Lives Eſtates do Depend.</item>
+               </list>
+            </p>
+            <figure/>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Andrew Crook,</hi> Printer to the Kings Moſt Excellent Majeſty, on <hi>Ormonde-Key.</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:151579:2"/>
+            <!-- PDF PAGE 46 -->
+            <pb n="3" facs="tcp:151579:2"/>
+            <!-- PDF PAGE 46 -->
+            <head>An Act for Reviving Two Statutes lately Ex<g ref="char:EOLhyphen"/>pired, and making them Perpetual; And for Avoiding Unneceſſary Suits and Delays. CHAP. VII.</head>
+            <p>WHEREAS in a Parliament held in the Seaventeénth and Eighteénth Years of the Reign of King <hi>Charles the Second,</hi> the ſeveral Statutes here<g ref="char:EOLhyphen"/>after mentioned were Enacted <hi>(vizt.)</hi> One Act, Intituled, <hi>An Act to prevent Delays in Extending Statutes, Judgments, and Recognizances.</hi> And one other Act, Intituled, <hi>An Act to prevent Arreſts of Judgments, and Superſeding Executions:</hi> Both which Acts are now Expired; but by Experience have beén found to be good and profitable Laws for this Kingdom, and fit to be Revived and made Perpetual.</p>
+            <p>Be it therefore Enacted by the Kings Moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, by and with the Advice and Con<g ref="char:EOLhyphen"/>ſent of the Lords Spiritual and Temporal, and the Commons in this preſent Parliament Aſſem<g ref="char:EOLhyphen"/>bled, and by the Authority of the ſame. That the ſaid ſeveral Statutes, and every of them, and all and every the Branches and Clauſes in them, and every of them Contained are hereby Revived, and ſhall from henceforth be, Remain and Con<g ref="char:EOLhyphen"/>tinue in Force and Effect for Ever.</p>
+            <p>And be it further Enacted by the Authority a<g ref="char:EOLhyphen"/>foreſaid, That in all Actions Real and Perſonal, or mirt, the Death of either Party between the Verdict and the Iudgment ſhall not be hereafter alledged for Error, ſo as Iudgment be Entred within two Terms after ſuch Verdict.</p>
+         </div>
+         <div type="act">
+            <pb n="4" facs="tcp:151579:3"/>
+            <!-- PDF PAGE 47 -->
+            <head>An Act for Redreſs of Inconveniencies for want of Proof of the Deceaſes of Perſons beyond the Seas, or Abſenting Themſelves, upon whoſe Lives Eſtates do Depend. CHAP. VIII.</head>
+            <p>WHEREAS Divers Lords of Man<g ref="char:EOLhyphen"/>nors and divers have uſed to Grant Eſtates by Leaſe for one or more Life or Lives, or elſe for Years Determinable upon one or more Life or Lives; And it hath often happened that ſuch Perſon or Perſons for whoſe Life or Lives ſuch Eſtates have beén Granted have gone beyond the Seas, and abſented ſheriff <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for many Years, that the Leſſors and Revertioners cannot find out whether ſuch Perſon or Perſons be Alive or Dead, by reaſon whereof ſuch Leſſors and Revertion<g ref="char:EOLhyphen"/>ers have beén held due of Poſſeſſion of their, Te<g ref="char:EOLhyphen"/>nements for many years after all the Lives upon which ſuch Eſtates depend are dead, in regard that the Leſſors and Revertioners when they have brought <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſons for the Recovery of their Tenements, have beén put upon it to prove the Death of their Tennants when it is almoſt Impoſſible for them to diſcover the ſame. For Remedy of which Miſchief to frequently happen<g ref="char:EOLhyphen"/>ing to ſuch Leſſors or Revertioners.</p>
+            <p>Be it Enacted by the King's Moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty, by and with the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Conſent of the Goods <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and the Commons in this <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and by the Authority of the ſame, That if ſuch Perſon or
+<pb n="5" facs="tcp:151579:3"/>
+               <!-- PDF PAGE 47 -->
+Perſons for whoſe Life or Lives ſuch Eſtates have beén or ſhall be granted, as aforeſaid, ſhall remain be<g ref="char:EOLhyphen"/>yond the Seas, or elſewhere abſent themſelves in this Realm by the ſpace of Seven Years to<g ref="char:EOLhyphen"/>gether, and no ſufficient and Evident proof be made of the Lives of ſuch Perſon or Perſons reſpectively in any Action Commenced for the recovery of ſuch Tenements by the Leſſors or Revertioners, their Heirs or Aſſignes: The Iudges before whom ſuch Action ſhall be brought ſhall direct the Iury to give their Verdict as if the perſon ſo remaining beyond the Seas, or otherwiſe, abſenting himſelf were dead.</p>
+            <p>And be it further Enacted, That in any ſuch Action, wherein the Life or Death of any ſuch Perſon or Perſons ſhall come in queſtion be<g ref="char:EOLhyphen"/>tweén the Leſſor or Revertioner and the Ten<g ref="char:EOLhyphen"/>nant in poſſesſion; it ſhall and may be Law<g ref="char:EOLhyphen"/>ful for the Leſſor or Revertioner to take Ex<g ref="char:EOLhyphen"/>ception to any of the Iurors returned for the Tryal of that Cauſe, that the greateſt part of the Real Eſtate of any ſuch Iuror is held by Leaſe for Life or Lives, who upon proof there<g ref="char:EOLhyphen"/>of ſhall be ſet aſide as in caſe of other Legal Challenges.</p>
+            <p>Provided always, and be it Enacted, That if any Perſon or Perſons ſhall be Evicted out of any Lands or Tenements by Vertue of this Act, and afterwards if ſuch perſon or perſons upon whoſe Life or Lives ſuch Eſtate or E<g ref="char:EOLhyphen"/>ſtates depend, ſhall return again from beyond the Seas, or ſhall on proof in any Action to be brought for recovery of the ſame, be made ap<g ref="char:EOLhyphen"/>pear to be Living, or to have beén Living at the time of the Eviction, that then and from thenceforth the Tennant or Leſſeé who was out<g ref="char:EOLhyphen"/>ed
+<pb n="6" facs="tcp:151579:4"/>
+               <!-- PDF PAGE 48 -->
+of the ſame, his or their Executors, Ad<g ref="char:EOLhyphen"/>miniſtrators or Aſſigns ſhall or may Re-enter, Re-poſſeſs, Have, Hold and Enjoy the ſaid Lands or Tenements as in his or their former E<g ref="char:EOLhyphen"/>ſtate for and during the Life or Lives or ſo long Term as the ſaid perſon or perſons, up<g ref="char:EOLhyphen"/>on whoſe Life or Lives the ſaid Eſtate or E<g ref="char:EOLhyphen"/>ſtates depend ſhall be Living, and ſhall alſo upon Action or Actions to be brought by him or them againſt the Leſſors, Revertioners or Tennants in poſſesſion, or other perſons re<g ref="char:EOLhyphen"/>ſpectively, which ſince the time of the ſaid Evi<g ref="char:EOLhyphen"/>ction received the Profits of the ſaid Lands or Tenements, recover for Damages the full Pro<g ref="char:EOLhyphen"/>fits of the ſaid Lands or Tenements reſpective<g ref="char:EOLhyphen"/>ly, with Lawfull Intereſt for and from the time that he or they were outed of the ſaid Lands or Tenements, and kept and held out of the ſame by the ſaid Leſſors, Revertioners, Ten<g ref="char:EOLhyphen"/>nants, or other Perſons who after the ſaid Eviction Received the Profits of the ſaid Lands or Tenements, or any of them Reſpectively, as well in the Caſe where the ſaid Perſon or Per<g ref="char:EOLhyphen"/>ſons, upon whoſe Life or Lives ſuch Eſtate or Eſtates did Depend, are, or ſhall be Dead at the time of bringing the ſaid Action or Actions as if the ſaid Perſon or Perſons were then Li<g ref="char:EOLhyphen"/>ving.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
